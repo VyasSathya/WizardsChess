@@ -1,3 +1,0 @@
-﻿  MotorConnector.cpp
-MotorConnector.cpp(80): warning C4101: 'answer' : unreferenced local variable
-  BackEndChessGame.vcxproj -> C:\MyDocs\Vyas\2015\TAMU\Spring\CSCE-420\Assignments\BackEndChessGame\Debug\BackEndChessGame.exe
